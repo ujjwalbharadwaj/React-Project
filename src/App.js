@@ -31,10 +31,10 @@ import  './App.css'
 function App() {
   return (
     <div className='box'>
-      <Card src="https://media.gq.com/photos/5ab151dcd668df704470b18f/master/w_1600%2Cc_limit/Not-Normal-High-Fashion-Gets-Serious-About-Regular-Clothes-20-Edit.jpg" title="hoody"/>
-      <Card src="https://i.pinimg.com/736x/84/c9/d0/84c9d020084a91120bda3955ebc2efcc.jpg" title="suits" />
-      <Card src="https://i.pinimg.com/originals/ab/51/e8/ab51e8f1190e046b42f6ee85d12a6ac1.jpg" title=" hat"  />
-      <Card src="https://www.next.us/nxtcms/resource/image/5395876/portrait_ratio4x5/560/700/d58f1cb164e524236fdba7c1e384ba20/DAC926074BE386A633219EE29AEE8543/boys-formal-pants.jpg" title="kids formal"  />
+      <Card src="https://www.damensch.com/_next/image?url=https%3A%2F%2Fadn.damensch.com%2Fwp-content%2Fuploads%2F2018%2F04%2FCrust-olive-S-Hoodie-9.jpg&w=1080&q=75" title="hoody"/>
+      <Card src="https://images.bestsellerclothing.in/data/JJ/26-sep-2022/299444304_g0.jpg?width=488&height=650&mode=fill&fill=blur&format=auto" title="suits" />
+      <Card src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq--5cTXaQ1XB4_RRElon0KEsa0Xsq6n0W8g&usqp=CAU" title=" hat"  />
+      <Card src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED5aFLbE-EUfqIroYLH_wQsZpWZI1f7_NEw&usqp=CAU" title="kids formal"  />
     </div>
   );
 }
